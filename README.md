@@ -1,4 +1,3 @@
-# mundruakhila.github.io
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,14 +15,16 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>Hello sir/madam,I am akhila,I am currently pursuing btech 3rd year CSE Data Science at Gitam University</p>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li>Project 1: Description of Project 1</li>
-            <li>Project 2: Description of Project 2</li>
+            <li>Project 1: weather app development</li>
+            <li>Project 2: currency converter</li>
+            <li>Project 3: unit converter</li>
+            <li>Project 4: online retail recomendation system</li>
             <!-- Add more projects as needed -->
         </ul>
     </section>
@@ -31,16 +32,16 @@
     <section id="achievements">
         <h2>Achievements</h2>
         <ul>
-            <li>Achievement 1: Description of Achievement 1</li>
-            <li>Achievement 2: Description of Achievement 2</li>
+            <li>Achievement 1: I am recently selected python programming internship in motion cut by AICTE</li>
+            <li>Achievement 2: Data Science internship done in IIT Bombay's Mood Indigo </li>
             <!-- Add more achievements as needed -->
         </ul>
     </section>
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>Phone: +1 (123) 456-7890</p>
+        <p>Email: amundru@gitam.in</p>
+        <p>Phone: +91-7989493148</p>
     </section>
 </body>
 
